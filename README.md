@@ -1,5 +1,7 @@
 # SortingAlgoGraph
 
+![SortingAlgoGraphImage](https://i.imgur.com/GwqD0kU.png)
+
 ## Information
 This is a simple project written exclusively in Java utilizing the [JFreeChart](http://www.jfree.org/jfreechart/) library to show how famous sorting algorithms are performing when the amount of items is gradually increasing. The algorithms being tested are Bubble Sort, Insertion Sort, Selection Sort, Heap Sort and Quick Sort.
 
